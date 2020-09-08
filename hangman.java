@@ -84,7 +84,7 @@ public class hangman {
 				}
 				}
 				else{
-					System.out.println("You have to select one of the alternativs 1,2 or 3!");
+					System.out.println("choose between 1,2,3!");
 					Select.next();					
 				}
 			
